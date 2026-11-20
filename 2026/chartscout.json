@@ -1,0 +1,17 @@
+{
+  "name": "ChartScout",
+  "url": "https://chartscout.io/black-friday",
+  "description": "Chart-pattern detection and alerts for crypto traders",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "40% off Pro monthly for your next 3 paid months, then $39/month",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "subscription",
+  "price": {
+    "regular": 39,
+    "sale": 23.40,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "endDate": "2026-11-30"
+}
